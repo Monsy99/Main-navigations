@@ -7,7 +7,7 @@
     margin-right: auto;
     align-items: center;
     justify-content: center;
-    background-image: url("images/about-us.jpg");
+    background-image: url("/images/about-us.jpg");
     background-size: cover;
     background-position-y: center;
     top: 50px;
