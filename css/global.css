@@ -10,10 +10,10 @@
 
 @font-face {
     font-family: "Ostrich Sans";
-    src: url("fonts/ostrich-sans.sans-rounded-medium.ttf");
+    src: url("/fonts/ostrich-sans.sans-rounded-medium.ttf");
 }
 
 @font-face {
     font-family: "Ming Liu";
-    src: url("fonts/MINGLIU.ttf");
+    src: url("/fonts/MINGLIU.ttf");
 }
