@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    background: transparent;
+}
+
+@font-face {
+    font-family: "Ostrich Sans";
+    src: url("/fonts/ostrich-sans.sans-rounded-medium.ttf");
+}
+
+@font-face {
+    font-family: "Ming Liu";
+    src: url("/fonts/MINGLIU.ttf");
+}
