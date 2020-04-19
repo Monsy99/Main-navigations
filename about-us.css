@@ -39,6 +39,8 @@
     padding: 10px 20px;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
+    margin-bottom: 10px;
 }
 
 .about-us__text-2 {
