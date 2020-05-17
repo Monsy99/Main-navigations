@@ -72,18 +72,17 @@
 }
 
 .main-navigation__menu-list-item {
-    display: block;
     text-transform: uppercase;
-    padding: 20px 30px;
+    padding: 15px 25px;
     margin-left: 5px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
 }
 
 .main-navigation__menu-list-item:hover {
     cursor: pointer;
-    padding: 19px 29px;
-    box-shadow: 0 0 3px white;
+    padding: 14px 24px;
+    box-shadow: 0 0 2px white;
     border: 1px solid white;
 }
 
