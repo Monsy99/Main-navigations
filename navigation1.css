@@ -93,3 +93,12 @@
 
 
 /* END OF MAIN NAVIGATION MENU BUTTONS*/
+.main-navigation2{
+    
+    position: fixed;
+    top:100px;
+    background: black;
+    width:100%;
+    left:0;
+    color:white;
+}
